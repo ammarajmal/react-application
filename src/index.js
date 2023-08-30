@@ -1,5 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+
+// import "./bootstrap/cosmo.bootstrap.min.css";
+// import "./bootstrap/darkly.bootstrap.min.css";
+// import "./bootstrap/morph.bootstrap.min.css";
+import "./bootstrap/superhero.bootstrap.css";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
