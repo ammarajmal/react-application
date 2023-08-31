@@ -14,7 +14,7 @@ class Home extends Component {
             <div>
                 <main>
                 <h1 className='text-center'>Camera Dashboard</h1>
-                <p> This is the home page for cameras dispaly! </p>
+                <p> Remote ROS Server status: </p>
                 {/* <h5>Counter: <span>{this.state.counter}</span></h5> */}
                 {/* <Button variant='primary' onClick={() => this.setState({counter: this.state.counter + 1})}>Increment</Button> */}
                 {/* <Button variant='primary' onClick={() => this.increment_counter()}>Increment</Button> */}
