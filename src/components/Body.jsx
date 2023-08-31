@@ -3,8 +3,7 @@ import { Container } from 'react-bootstrap';
 import {
     BrowserRouter as Router,
     Routes,
-    Route,
-    Link
+    Route
 } from "react-router-dom";
 
 import Home from './Home';
